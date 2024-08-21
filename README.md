@@ -3,6 +3,7 @@
 ![image](https://github.com/user-attachments/assets/3ff73a4f-d5c4-47ee-95a6-8fcda7891687)
 
 ## Table of Cotents
+- [Project Overview](#project-overview)
 - [Project Objective](#project-objective)
 - [Data Overview](#data-overview)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-EDA)
@@ -12,8 +13,11 @@
 - [Recommendation](#recommendation)
 - [Conclusion](#conclusion)
 
+## Project Overview
+This Telecom Company is facing a critical challenge in retaining its customers, which directly impacts its business sustainability and growth. The existing customer retention strategies are not sufficiently precise, leading to the loss of valuable customers to competitors.
+
 ## Project Objective
-The primary objective of this project is to develop a predictive model that estimates employee salaries based on a range of features, including the level of education, attribution types, and other relevant factors present in the dataset. Additionally, we aim to identify and analyze the key factors that significantly influence an employee’s salary. Through this analysis, we seek to provide valuable insights that can help HR professionals make informed decisions regarding compensation and employee management.
+To develop a robust customer churn prediction system by leveraging advanced analytics and machine learning techniques on available customer data, the company seeks to accurately forecast customer churn and implement targeted retention initiatives. This proactive approach will enable the company to reduce customer attrition, enhance customer loyalty, and maintain a competitive edge in the highly dynamic and competitive telecommunications industry
 
 ## Data Overview
 This involved importing the dataset, ivestigated if the features are in their correct datatypes, converting features into their correct datatypes, checked the shape of the dataset, investigated the missing values, visualizing the missing values, performed statistical analysis of numerical & categorical datapoints.
